@@ -1,0 +1,17 @@
+# Arduino / IDE generated files
+*.log
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Build output
+build/
+.pio/
+*.hex
+*.elf
+*.bin
+
+# Local secrets
+secrets.h
+credentials.h
